@@ -1,4 +1,4 @@
-# NeonCircle
+# Infrared NeonCircle
 
 # Objectif du projet
 
