@@ -4,6 +4,8 @@
 
 L’objectif est de mettre en place un ruban de LED programmables sous la forme d’un cercle fixé au mur et contrôlable par infrarouge.
 
+Vidéo du projet : https://www.tiktok.com/@__hakii__/video/7323537579150708001
+
 # I- **Conception du ruban LED**
 
 Pour fabriquer un cercle en néon, il nous faut acheter un ruban de LED programmables individuellement ainsi qu’un tube flexible transparent pour y insérer notre banderole.
